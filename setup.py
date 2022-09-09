@@ -29,7 +29,7 @@ test_requirements = [
 ]
 
 setup(
-    name="planetmint-py-multihash",
+    name="planetmint-multiformat-multihash",
     version="2.1.1",
     description="Multihash implementation in Python",
     long_description=readme + "\n\n" + history,
